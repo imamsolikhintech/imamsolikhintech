@@ -1,11 +1,16 @@
 <h1 align="center">IMAM SOLIKHIN</h1>
 <p align="center"><b>Research And Development • Full Stack Engineer</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40"/>
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40"/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40"/>
+</p>
 </p>
 <p align="center">
   Berpengalaman membangun microservices, API terukur, dan sistem otomasi CI/CD.
