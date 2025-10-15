@@ -26,7 +26,7 @@ Saya antusias dengan bahasa pemrograman dan pengembangan software. Berbekal lata
 - R&D Engineer — PT INKOMBIZZ
 
 ## Kompetensi Utama
-- Backend: Go, Java/Spring Boot, RPC, Microservices
+- Backend: Go, Java, RPC, Microservices
 - Frontend: Vue.js/Nuxt.js, Java Swing
 - DevOps & CI/CD: Docker, Jenkins, GitLab, Maven
 - Database: PostgreSQL, MySQL, Redis
@@ -34,7 +34,7 @@ Saya antusias dengan bahasa pemrograman dan pengembangan software. Berbekal lata
 - Praktik: OOP, Clean Code, Testing, Pipeline Otomatis
 - Ops & Infra: Linux Server, Load Balancer
 - Messaging & Streaming: RabbitMQ, Kafka
-- Framework: Struts 2, CodeIgniter 3, Flask, Gin (Go)
+- Framework: Spring Boot, Struts 2, CodeIgniter 3, Flask, Gin (Go)
 
 ## Teknologi
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
