@@ -54,11 +54,6 @@ Saya antusias dengan bahasa pemrograman dan pengembangan software. Berbekal lata
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-## Statistik GitHub
-![Github Stats](https://github-readme-stats.vercel.app/api?username=imamsolikhintech&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imamsolikhintech&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=imamsolikhintech&theme=radical)
-
 ## Statistik GitLab
 [![GitLab Profile](https://img.shields.io/badge/GitLab-imamsolikhin-330F63?style=for-the-badge&logo=gitlab)](https://gitlab.com/imamsolikhin)
 
