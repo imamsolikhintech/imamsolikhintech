@@ -1,4 +1,4 @@
-<h1 align="center">Imam Solikhin</h1>
+<h1 align="center">IMAM SOLIKHIN S.KOM</h1>
 <p align="center"><b>Senior Backend Developer • Full Stack Engineer</b></p>
 <p align="center">
   Berpengalaman membangun microservices, API terukur, dan sistem otomasi CI/CD.
@@ -49,6 +49,9 @@ Saya antusias dengan bahasa pemrograman dan pengembangan software. Berbekal lata
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=imamsolikhintech&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imamsolikhintech&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=imamsolikhintech&theme=radical)
+
+## Statistik GitLab
+[![GitLab Profile](https://img.shields.io/badge/GitLab-imamsolikhin-330F63?style=for-the-badge&logo=gitlab)](https://gitlab.com/imamsolikhin)
 
 ## Pendidikan
 - Universitas Esa Unggul — S1 Ilmu Komputer (2014–2019)
