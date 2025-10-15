@@ -1,4 +1,4 @@
-<h1 align="center">IMAM SOLIKHIN S.KOM</h1>
+<h1 align="center">IMAM SOLIKHIN</h1>
 <p align="center"><b>Senior Backend Developer • Full Stack Engineer</b></p>
 <p align="center">
   Berpengalaman membangun microservices, API terukur, dan sistem otomasi CI/CD.
