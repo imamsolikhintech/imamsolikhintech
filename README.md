@@ -26,8 +26,8 @@
 ## Tentang Saya
 Saya antusias dengan bahasa pemrograman dan pengembangan software. Berbekal latar belakang FullStack Programmer, saya fokus pada backend (Go, Java/Spring Boot, RPC, Microservices) dan mampu membangun frontend yang rapi (Vue/Nuxt). Nyaman bekerja mandiri maupun sebagai bagian dari tim, dengan praktik OOP, clean code, dan pipeline CI/CD yang terjaga.
 
-- Saat ini: Senior Backend Developer (Project Based) — PT Tokoonderdil Karya Utama
-- Sebelumnya: Senior Development Specialist — PT Nieve Aplikasi Mandiri
+- Saat ini: Senior Developer — PT Navios Evolusi Solusindo
+- Sebelumnya: Senior Backend Developer — PT Tokoonderdil Karya Utama
 - R&D Engineer — PT INKOMBIZZ
 
 ## Kompetensi Utama
